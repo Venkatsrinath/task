@@ -1,0 +1,19 @@
+.maindiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    border: 2px,solid;
+    padding: 20px;
+    background-color: aquamarine;
+}
+.para{
+    height: 100px;
+     width: 100px; 
+     border: 1px solid; 
+     margin: 2px;
+}
+#one{
+    width: 300px;
+    height: 30px;
+}
